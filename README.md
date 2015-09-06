@@ -1,1 +1,1 @@
-read me for amazon app
+Read me for amazon app
