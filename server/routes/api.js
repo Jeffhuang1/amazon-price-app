@@ -10,7 +10,7 @@ router.get('/item', function(req, res, next) {
 
 		var opHelper = new OperationHelper({
 		    awsId:     'AKIAJXCGHWHBV54VWLOA',
-		    awsSecret: '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',
+		    awsSecret: '',
 		    assocId:   'amazonsto092f-20',
 		    endPoint:  'ecs.amazonaws.ca',
 		    // xml2jsOptions: an extra, optional, parameter for if you want to pass additional options for the xml2js module. (see https://github.com/Leonidas-from-XIV/node-xml2js#options)
